@@ -1,5 +1,5 @@
 # LCP
 LeetCode practice
 
-# mac gcc install
-* $ xcode-select --install
+### mac gcc install
+*  xcode-select --install
